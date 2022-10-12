@@ -1,0 +1,239 @@
+body {
+  background-color: #f5f7fa;
+  font-family: Montserrat, sans-serif;
+}
+
+.main-conteiner {
+  width: 1200px;
+  background-color: #fff;
+  flex-direction: row-reverse;
+  margin: 40px auto;
+  padding-right: 20px;
+  display: flex;
+}
+
+.main-content {
+  max-width: 1200px;
+  padding: 100px 90px;
+}
+
+.about_me {
+  margin: 0 0 40px;
+}
+
+.about_me_profession {
+  color: #000;
+  margin: 0 0 20px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 17px;
+}
+
+.about_me_name {
+  color: #000;
+  margin: 0 0 20px;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 55px;
+}
+
+.about_me_p {
+  width: 400px;
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.my_projects {
+  width: 485px;
+  margin: 0 0 50px;
+}
+
+.my_projects_name, .my_work_experience_name, .my_education_name {
+  color: #000;
+  margin: 0 0 10px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 27px;
+}
+
+.my_projects_ol {
+  padding: 0 0 0 17px;
+}
+
+.my_projects_li {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.my_projects_a, .my_projects_span {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.my_projects_skob {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.my_work_experience {
+  width: 525px;
+  margin: 0 0 40px;
+}
+
+.work_name_1 {
+  color: #000;
+  margin: 0 0 10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.work_name_2 {
+  color: #fb6d3a;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.my_work_time {
+  color: #a8a8a8;
+  margin: 0 0 10px;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+}
+
+.my_work_ul {
+  margin: 0 0 15px;
+  padding: 0 0 0 17px;
+}
+
+.my_work_li {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.my_education {
+  width: 327px;
+}
+
+.education {
+  color: #000;
+  margin: 0 0 10px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 17px;
+}
+
+.sidebar {
+  width: 370px;
+  background-color: #1e2939;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contacts, .tech_skils, .soft_skils {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar_section {
+  color: #fff;
+  margin: 10px;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+}
+
+.contacts_type {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.contacts_link {
+  color: #fff;
+  opacity: .5;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.sidebar_ul {
+  color: #fb6d3a;
+  padding-left: 23px;
+}
+
+.sidebar_li {
+  color: #fff;
+  opacity: .7;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.header-progs {
+  max-width: 1200px;
+  max-height: 400px;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+.text-decor {
+  font-weight: bold;
+}
+
+.text {
+  text-indent: 20px;
+  font-size: 20px;
+}
+
+.prog-name-link {
+  padding: 10px;
+  display: block;
+}
+
+.arduino-header-text {
+  max-width: 400px;
+  justify-content: flex-start;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+}
+
+.my_photo {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.b2625c6b.css.map */
